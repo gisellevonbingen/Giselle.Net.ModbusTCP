@@ -1,7 +1,7 @@
 # Giselle.Net.ModbusTCP
 
 # Dependencies
-- [Giselle.Commons](https://play.google.com/store/apps/details?id=com.blindcatstudio.samsara)
+- [Giselle.Commons](https://github.com/gisellevonbingen/Giselle.Commons)
 
 # References
 - https://modbus.org/docs/Modbus_Application_Protocol_V1_1b3.pdf
